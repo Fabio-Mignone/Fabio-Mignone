@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabio Mignone</h1>
-<h3 align="center">A passionate computer science student at I.T.I.S Majorana in Grugliaco, Turin, Italy</h3>
+<h3 align="center">A passionate developer based in Grugliaco, Turin, Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio-mignone&label=Profile%20views&color=ff4d00&style=plastic" alt="fabio-mignone" /> </p>
 
