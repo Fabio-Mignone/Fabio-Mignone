@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MAUI_MOBILE_PASSWORD_MANAGER](https://github.com/Fabio-Mignone/MAUI_MOBILE_PASSWORD_MANAGER)
 
-- 🌱 I’m currently learning **C# and Microsoft SQL server**
+- 🌱 I’m currently learning **PYTHON**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fabio-Mignone?tab=repositories](https://github.com/Fabio-Mignone?tab=repositories)
 
